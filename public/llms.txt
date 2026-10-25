@@ -1,0 +1,23 @@
+# Anuj Momle — Portfolio
+
+> Personal portfolio for Anuj Momle, a third-year BCS and BCom student based in Udgir, Maharashtra, India. It presents his projects, skills, education, business work, and contact links.
+
+This is a single-page portfolio. The links below point to its main sections.
+
+## Portfolio sections
+
+- [About](/#about): Background, studies, and current work.
+- [Skills](/#skills): Technical, design, and creative skills.
+- [Projects](/#projects): Projects including Campus Connect using AI.
+- [Journey](/#journey): Education and experience timeline.
+- [Contact](/#contact): Contact details and social profiles.
+
+## Profiles
+
+- [GitHub](https://github.com/ANUJ-MOMLE): Public code profile.
+- [LinkedIn](https://www.linkedin.com/in/anuj-momle-39b416227/?isSelfProfile=true): Professional profile.
+- [Instagram](https://www.instagram.com/anuj.momle/): Social profile.
+
+## Contact
+
+- [Email Anuj](mailto:momlepiyush@gmail.com): Contact by email.
