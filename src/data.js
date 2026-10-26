@@ -62,7 +62,7 @@ export const projects = [
     title: 'Campus Connect using AI',
     description: 'A college project: an AI-powered campus webpage concept that helps students discover campus information, events, and useful answers in one place.',
     tags: ['College Project', 'AI-powered Webpage'],
-    url: '',
+    url: 'https://campusconnect-ai-am.netlify.app/',
   },
 ];
 
@@ -80,3 +80,4 @@ export const highlights = [
   { title: 'Interests', detail: 'Technology, interface design, entrepreneurship, and real estate.' },
   { title: 'Current focus', detail: 'Growing across software development, design, and business.' },
 ];
+
